@@ -1,4 +1,4 @@
-#Caterpillar Inavders
+#Caterpillar Invaders
 
 Esse é um pequeno projeto cujo objetivo foi utilizar a biblioteca `pygame`.
 
